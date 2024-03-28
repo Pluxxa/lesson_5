@@ -25,3 +25,6 @@ class Warrior():
         print(f"цвет волос война - {self.heir_color}")
         print(f"сила война - {self.power}")
         print(f"выносливость война - {self.endurance}")
+
+
+war1 = Warrior("abava", 76, 54, "brown")
